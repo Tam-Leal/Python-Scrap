@@ -19,7 +19,7 @@ Screens
 _Main Window_
 -
 
-![alt-text](assets/mainwindow.PNG "optional-title")
+![alt-text](assets/main_window.PNG "optional-title")
 
 _Request_                                                                                                          
 =                                                                                                                          
