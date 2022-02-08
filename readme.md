@@ -25,7 +25,7 @@ _Request_
 =                                                                                                                          
 
 After activating the searches, it is possible to view the location and sale price in addition to the respective image.
-For this project, 3 companies were chosen
+For this project, 3 companies were chosen.
 
 ![alt-text](assets/request_products.PNG "optional-title")
 
