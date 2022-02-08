@@ -15,6 +15,7 @@ class GuiConcorrencia(object):
         self.window = tk.Tk()
         self.window.title('Market Analysis')
         self.window.geometry("700x670+300+20")
+        self.window['background'] = '#E6E6FA'
         self.window.bind("<ButtonRelease-1>", self.show_image)
 
         # Window Search Widgets
